@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/amurshak-podbeanmcp-badge.png)](https://mseep.ai/app/amurshak-podbeanmcp)
+
 # 🎙️ Podbean MCP Server 🎧
 
 
